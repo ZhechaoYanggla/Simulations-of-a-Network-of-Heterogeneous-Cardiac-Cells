@@ -1,0 +1,99 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# ----------------------------------------------------------
+# Parameters
+# ----------------------------------------------------------
+N = 1001
+delta = 10
+i = np.arange(N)
+
+# ----------------------------------------------------------
+# Probability profiles p(i)
+# ----------------------------------------------------------
+# Gaussian peak
+i0 = N // 2
+sigma = 20.0
+p_gauss = np.exp(-0.5 * ((i - i0) / sigma) ** 2)
+
+# Sinusoidal modulation
+p_sine = 0.5 * (1 + np.sin(2 * np.pi * i / 100))
+
+# Uniform
+p_uniform = np.full(N, 0.5)
+
+# Non-Uniform
+HR = 250; NR = N - HR
+p = HR / N
+p_nonuniform = np.ones(N) * p
+
+
+# Double-opposing sigmoid steps
+sharpness = 1/( N * 1e-5)
+width =  N*2
+centre = N//2
+amplitude = 0.2
+
+i1, i2 =  (centre - width//2 , centre + width//2)
+sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+#p_double = np.clip(sigmoid1 * sigmoid2, 0, 1)
+p_double = amplitude * sigmoid1 * sigmoid2
+
+profiles = {
+    "Gaussian": p_gauss,
+    "Sinusoidal": p_sine,
+    "Equal": p_uniform,
+    "Non-Equal": p_nonuniform,
+    "DoubleSigmoid": p_double,
+}
+
+# ----------------------------------------------------------
+# local running average - or local density at position "i"
+# ----------------------------------------------------------
+def local_avg(C, delta):
+    N = len(C)
+    rho = np.zeros(N)
+    for k in range(N):
+        kmin = max(0, k - delta)
+        kmax = min(N - 1, k + delta)
+        window = C[kmin:kmax + 1]
+        rho[k] = np.sum(window) / len(window)
+    return rho
+
+# ----------------------------------------------------------
+# Compute everything and print diagnostics
+# ----------------------------------------------------------
+results = {}
+print("==== Summary ====")
+for name, p in profiles.items():
+    # Bernoulli process
+    C = (np.random.rand(N) < p).astype(int)
+    rho = local_avg(C, delta)
+    N_ones = np.sum(C)
+    I_rho = np.sum(rho)
+    test = I_rho / N_ones if N_ones > 0 else np.nan
+    print(f"{name:15s} | Sum rho = {I_rho:8.2f} | #ones = {N_ones:5d} | test = {test:6.3f}")
+    results[name] = (p, C, rho)
+
+# ----------------------------------------------------------
+# Plot results: 4 rows, 3 columns
+# ----------------------------------------------------------
+fig, axs = plt.subplots(len(results), 3, figsize=(13, 8), sharex=True)
+
+for row, (name, (p, C, rho)) in enumerate(results.items()):
+    axs[row, 0].plot(p)
+    axs[row, 0].set_ylabel(name)
+    axs[row, 0].set_title('p(i)')
+
+    axs[row, 1].stem(range(N), C, linefmt='gray', markerfmt=' ', basefmt=' ')
+    axs[row, 1].set_title('C[i]')
+
+    axs[row, 2].plot(rho)
+    axs[row, 2].set_title(r'$\rho(i)$')
+
+for ax in axs[-1, :]:
+    ax.set_xlabel('i')
+
+plt.tight_layout()
+plt.show()
