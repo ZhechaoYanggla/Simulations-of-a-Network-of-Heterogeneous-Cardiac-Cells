@@ -1,0 +1,34 @@
+=== RUN-1:
+
+width = 2*N
+sharpness = 1/(N * 1e-5)
+amplitude = np.linspace(0, 1,  11)  
+
+Make a plot  of  mean(APD) as a function of amplitude.
+
+=== RUN-2:
+
+width = N//3
+sharpness = 1/(N * 1e-5)
+amplitude =  appropriate value determined from RUN-1. Perhaps = 0.5
+
+Make a plot  of APD(i)  as a function of cell number (i).
+Make a corona-plot.
+
+=== RUN-3 and 4:
+Repeat RUNS-1 and 2 fr coupling strengths      = 0  and 10?
+
+
+
+PREPACING?!?!?   - take a single HR cell. Prepace N times.   record the values of the state variables at the end of time.  Set these values as initial conditions for the HR cells in the coupled ring.
+                                          take a singe NR cell;  Repeat. 
+                                        Then the coupled beat can be ran for only one beat.
+
+
+In the HR/NR draft:
+
+Formulate the mathematical model properly.  At the moment you have sections 2.1, 2.2,    2.3,    2.4   with some verbal description. This is not good-enough. Please convert that information to well-posed equations.  Introduce the double-sigmoid probability density function and explain how it enters the equations. 
+
+When all quantities are defined within the model - coupling, probability parameters -  we can then make plots of against them
+
+Make a plot of the AP trace of a single HR and a single NR cell to explain how they look on their own ..

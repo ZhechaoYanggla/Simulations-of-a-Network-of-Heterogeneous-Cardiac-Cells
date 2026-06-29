@@ -1,0 +1,1297 @@
+Error processing line 1 of /home/pgrad1/2712549y/.local/lib/python3.10/site-packages/distutils-precedence.pth:
+
+  Traceback (most recent call last):
+    File "/usr/lib/python3.10/site.py", line 192, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+  AttributeError: module '_distutils_hack' has no attribute 'add_shim'
+
+Remainder of file ignored
+Error processing line 1 of /usr/lib/python3/dist-packages/distutils-precedence.pth:
+
+  Traceback (most recent call last):
+    File "/usr/lib/python3.10/site.py", line 192, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+  AttributeError: module '_distutils_hack' has no attribute 'add_shim'
+
+Remainder of file ignored
+
+--- Attempt 1 ---
+[INFO] HR fraction = 0.719, seed = 943304
+[FAIL] Attempt 1: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 2 ---
+[INFO] HR fraction = 0.709, seed = 743572
+[FAIL] Attempt 2: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 3 ---
+[INFO] HR fraction = 0.675, seed = 301934
+[FAIL] Attempt 3: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 4 ---
+[INFO] HR fraction = 0.691, seed = 521601
+[FAIL] Attempt 4: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 5 ---
+[INFO] HR fraction = 0.689, seed = 381339
+[FAIL] Attempt 5: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 6 ---
+[INFO] HR fraction = 0.704, seed = 463152
+[FAIL] Attempt 6: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 7 ---
+[INFO] HR fraction = 0.698, seed = 446748
+[FAIL] Attempt 7: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 8 ---
+[INFO] HR fraction = 0.703, seed = 709650
+[FAIL] Attempt 8: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 9 ---
+[INFO] HR fraction = 0.700, seed = 675735
+[FAIL] Attempt 9: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 10 ---
+[INFO] HR fraction = 0.698, seed = 39386
+[FAIL] Attempt 10: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 11 ---
+[INFO] HR fraction = 0.713, seed = 15077
+[FAIL] Attempt 11: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 12 ---
+[INFO] HR fraction = 0.691, seed = 253086
+[FAIL] Attempt 12: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 13 ---
+[INFO] HR fraction = 0.689, seed = 206122
+[FAIL] Attempt 13: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 14 ---
+[INFO] HR fraction = 0.709, seed = 282962
+[FAIL] Attempt 14: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 15 ---
+[INFO] HR fraction = 0.688, seed = 849355
+[FAIL] Attempt 15: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 16 ---
+[INFO] HR fraction = 0.713, seed = 416416
+[FAIL] Attempt 16: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 17 ---
+[INFO] HR fraction = 0.686, seed = 240539
+[FAIL] Attempt 17: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 18 ---
+[INFO] HR fraction = 0.672, seed = 455873
+[FAIL] Attempt 18: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 19 ---
+[INFO] HR fraction = 0.703, seed = 84619
+[FAIL] Attempt 19: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 20 ---
+[INFO] HR fraction = 0.649, seed = 22611
+[FAIL] Attempt 20: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 21 ---
+[INFO] HR fraction = 0.713, seed = 553927
+[FAIL] Attempt 21: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 22 ---
+[INFO] HR fraction = 0.677, seed = 392324
+[FAIL] Attempt 22: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 23 ---
+[INFO] HR fraction = 0.728, seed = 668904
+[FAIL] Attempt 23: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 24 ---
+[INFO] HR fraction = 0.709, seed = 596301
+[FAIL] Attempt 24: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 25 ---
+[INFO] HR fraction = 0.725, seed = 434255
+[FAIL] Attempt 25: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 26 ---
+[INFO] HR fraction = 0.723, seed = 308002
+[FAIL] Attempt 26: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 27 ---
+[INFO] HR fraction = 0.704, seed = 269835
+[FAIL] Attempt 27: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 28 ---
+[INFO] HR fraction = 0.704, seed = 907658
+[FAIL] Attempt 28: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 29 ---
+[INFO] HR fraction = 0.698, seed = 255428
+[FAIL] Attempt 29: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 30 ---
+[INFO] HR fraction = 0.686, seed = 723253
+[FAIL] Attempt 30: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 31 ---
+[INFO] HR fraction = 0.713, seed = 327586
+[FAIL] Attempt 31: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 32 ---
+[INFO] HR fraction = 0.730, seed = 837467
+[FAIL] Attempt 32: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 33 ---
+[INFO] HR fraction = 0.701, seed = 898804
+[FAIL] Attempt 33: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 34 ---
+[INFO] HR fraction = 0.674, seed = 761066
+[FAIL] Attempt 34: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 35 ---
+[INFO] HR fraction = 0.694, seed = 39314
+[FAIL] Attempt 35: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 36 ---
+[INFO] HR fraction = 0.710, seed = 300461
+[FAIL] Attempt 36: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 37 ---
+[INFO] HR fraction = 0.679, seed = 92218
+[FAIL] Attempt 37: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 38 ---
+[INFO] HR fraction = 0.696, seed = 861449
+[FAIL] Attempt 38: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 39 ---
+[INFO] HR fraction = 0.698, seed = 991328
+[FAIL] Attempt 39: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 40 ---
+[INFO] HR fraction = 0.699, seed = 695710
+[FAIL] Attempt 40: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 41 ---
+[INFO] HR fraction = 0.716, seed = 451802
+[FAIL] Attempt 41: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 42 ---
+[INFO] HR fraction = 0.713, seed = 655928
+[FAIL] Attempt 42: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 43 ---
+[INFO] HR fraction = 0.676, seed = 746238
+[FAIL] Attempt 43: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 44 ---
+[INFO] HR fraction = 0.690, seed = 276853
+[FAIL] Attempt 44: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 45 ---
+[INFO] HR fraction = 0.713, seed = 958282
+[FAIL] Attempt 45: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 46 ---
+[INFO] HR fraction = 0.718, seed = 395903
+[FAIL] Attempt 46: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 47 ---
+[INFO] HR fraction = 0.686, seed = 525942
+[FAIL] Attempt 47: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 48 ---
+[INFO] HR fraction = 0.735, seed = 571715
+[FAIL] Attempt 48: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 49 ---
+[INFO] HR fraction = 0.701, seed = 270984
+[FAIL] Attempt 49: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 50 ---
+[INFO] HR fraction = 0.690, seed = 362036
+[FAIL] Attempt 50: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 51 ---
+[INFO] HR fraction = 0.706, seed = 984051
+[FAIL] Attempt 51: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 52 ---
+[INFO] HR fraction = 0.706, seed = 715322
+[FAIL] Attempt 52: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 53 ---
+[INFO] HR fraction = 0.696, seed = 709079
+[FAIL] Attempt 53: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 54 ---
+[INFO] HR fraction = 0.676, seed = 933528
+[FAIL] Attempt 54: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 55 ---
+[INFO] HR fraction = 0.725, seed = 247629
+[FAIL] Attempt 55: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 56 ---
+[INFO] HR fraction = 0.710, seed = 53530
+[FAIL] Attempt 56: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 57 ---
+[INFO] HR fraction = 0.675, seed = 903013
+[FAIL] Attempt 57: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 58 ---
+[INFO] HR fraction = 0.696, seed = 449723
+[FAIL] Attempt 58: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 59 ---
+[INFO] HR fraction = 0.704, seed = 806605
+[FAIL] Attempt 59: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 60 ---
+[INFO] HR fraction = 0.711, seed = 126900
+[FAIL] Attempt 60: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 61 ---
+[INFO] HR fraction = 0.679, seed = 147002
+[FAIL] Attempt 61: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 62 ---
+[INFO] HR fraction = 0.681, seed = 618066
+[FAIL] Attempt 62: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 63 ---
+[INFO] HR fraction = 0.708, seed = 257441
+[FAIL] Attempt 63: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 64 ---
+[INFO] HR fraction = 0.696, seed = 263214
+[FAIL] Attempt 64: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 65 ---
+[INFO] HR fraction = 0.691, seed = 576615
+[FAIL] Attempt 65: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 66 ---
+[INFO] HR fraction = 0.704, seed = 655946
+[FAIL] Attempt 66: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 67 ---
+[INFO] HR fraction = 0.708, seed = 596804
+[FAIL] Attempt 67: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 68 ---
+[INFO] HR fraction = 0.711, seed = 895039
+[FAIL] Attempt 68: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 69 ---
+[INFO] HR fraction = 0.699, seed = 254057
+[FAIL] Attempt 69: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 70 ---
+[INFO] HR fraction = 0.694, seed = 487250
+[FAIL] Attempt 70: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 71 ---
+[INFO] HR fraction = 0.675, seed = 804706
+[FAIL] Attempt 71: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 72 ---
+[INFO] HR fraction = 0.684, seed = 940823
+[FAIL] Attempt 72: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 73 ---
+[INFO] HR fraction = 0.696, seed = 880653
+[FAIL] Attempt 73: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 74 ---
+[INFO] HR fraction = 0.724, seed = 279517
+[FAIL] Attempt 74: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 75 ---
+[INFO] HR fraction = 0.686, seed = 617953
+[FAIL] Attempt 75: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 76 ---
+[INFO] HR fraction = 0.688, seed = 565383
+[FAIL] Attempt 76: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 77 ---
+[INFO] HR fraction = 0.686, seed = 377255
+[FAIL] Attempt 77: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 78 ---
+[INFO] HR fraction = 0.696, seed = 876351
+[FAIL] Attempt 78: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 79 ---
+[INFO] HR fraction = 0.714, seed = 4106
+[FAIL] Attempt 79: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 80 ---
+[INFO] HR fraction = 0.716, seed = 384607
+[FAIL] Attempt 80: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 81 ---
+[INFO] HR fraction = 0.686, seed = 662422
+[FAIL] Attempt 81: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 82 ---
+[INFO] HR fraction = 0.714, seed = 93730
+[FAIL] Attempt 82: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 83 ---
+[INFO] HR fraction = 0.693, seed = 549754
+[FAIL] Attempt 83: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 84 ---
+[INFO] HR fraction = 0.677, seed = 5669
+[FAIL] Attempt 84: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 85 ---
+[INFO] HR fraction = 0.696, seed = 903352
+[FAIL] Attempt 85: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 86 ---
+[INFO] HR fraction = 0.694, seed = 167619
+[FAIL] Attempt 86: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 87 ---
+[INFO] HR fraction = 0.677, seed = 154447
+[FAIL] Attempt 87: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 88 ---
+[INFO] HR fraction = 0.659, seed = 599890
+[FAIL] Attempt 88: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 89 ---
+[INFO] HR fraction = 0.703, seed = 363516
+[FAIL] Attempt 89: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 90 ---
+[INFO] HR fraction = 0.691, seed = 407345
+[FAIL] Attempt 90: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 91 ---
+[INFO] HR fraction = 0.680, seed = 314190
+[FAIL] Attempt 91: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 92 ---
+[INFO] HR fraction = 0.694, seed = 75752
+[FAIL] Attempt 92: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 93 ---
+[INFO] HR fraction = 0.710, seed = 294269
+[FAIL] Attempt 93: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 94 ---
+[INFO] HR fraction = 0.672, seed = 104386
+[FAIL] Attempt 94: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 95 ---
+[INFO] HR fraction = 0.735, seed = 542426
+[FAIL] Attempt 95: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 96 ---
+[INFO] HR fraction = 0.670, seed = 848048
+[FAIL] Attempt 96: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 97 ---
+[INFO] HR fraction = 0.661, seed = 381633
+[FAIL] Attempt 97: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 98 ---
+[INFO] HR fraction = 0.711, seed = 467471
+[FAIL] Attempt 98: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 99 ---
+[INFO] HR fraction = 0.704, seed = 369573
+[FAIL] Attempt 99: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 100 ---
+[INFO] HR fraction = 0.700, seed = 863605
+[FAIL] Attempt 100: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 101 ---
+[INFO] HR fraction = 0.711, seed = 724716
+[FAIL] Attempt 101: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 102 ---
+[INFO] HR fraction = 0.676, seed = 443518
+[FAIL] Attempt 102: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 103 ---
+[INFO] HR fraction = 0.708, seed = 815390
+[FAIL] Attempt 103: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 104 ---
+[INFO] HR fraction = 0.699, seed = 245441
+[FAIL] Attempt 104: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 105 ---
+[INFO] HR fraction = 0.736, seed = 416057
+[FAIL] Attempt 105: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 106 ---
+[INFO] HR fraction = 0.714, seed = 777133
+[FAIL] Attempt 106: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 107 ---
+[INFO] HR fraction = 0.718, seed = 606471
+[FAIL] Attempt 107: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 108 ---
+[INFO] HR fraction = 0.698, seed = 573222
+[FAIL] Attempt 108: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 109 ---
+[INFO] HR fraction = 0.680, seed = 679141
+[FAIL] Attempt 109: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 110 ---
+[INFO] HR fraction = 0.711, seed = 830358
+[FAIL] Attempt 110: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 111 ---
+[INFO] HR fraction = 0.689, seed = 713485
+[FAIL] Attempt 111: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 112 ---
+[INFO] HR fraction = 0.682, seed = 642421
+[FAIL] Attempt 112: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 113 ---
+[INFO] HR fraction = 0.688, seed = 692591
+[FAIL] Attempt 113: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 114 ---
+[INFO] HR fraction = 0.700, seed = 536585
+[FAIL] Attempt 114: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 115 ---
+[INFO] HR fraction = 0.676, seed = 716642
+[FAIL] Attempt 115: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 116 ---
+[INFO] HR fraction = 0.705, seed = 605820
+[FAIL] Attempt 116: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 117 ---
+[INFO] HR fraction = 0.677, seed = 373036
+[FAIL] Attempt 117: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 118 ---
+[INFO] HR fraction = 0.671, seed = 397031
+[FAIL] Attempt 118: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 119 ---
+[INFO] HR fraction = 0.704, seed = 644209
+[FAIL] Attempt 119: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 120 ---
+[INFO] HR fraction = 0.695, seed = 904491
+[FAIL] Attempt 120: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 121 ---
+[INFO] HR fraction = 0.709, seed = 37712
+[FAIL] Attempt 121: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 122 ---
+[INFO] HR fraction = 0.688, seed = 289564
+[FAIL] Attempt 122: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 123 ---
+[INFO] HR fraction = 0.706, seed = 106099
+[FAIL] Attempt 123: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 124 ---
+[INFO] HR fraction = 0.672, seed = 501938
+[FAIL] Attempt 124: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 125 ---
+[INFO] HR fraction = 0.705, seed = 587635
+[FAIL] Attempt 125: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 126 ---
+[INFO] HR fraction = 0.714, seed = 27208
+[FAIL] Attempt 126: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 127 ---
+[INFO] HR fraction = 0.699, seed = 931061
+[FAIL] Attempt 127: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 128 ---
+[INFO] HR fraction = 0.703, seed = 986870
+[FAIL] Attempt 128: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 129 ---
+[INFO] HR fraction = 0.686, seed = 834155
+[FAIL] Attempt 129: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 130 ---
+[INFO] HR fraction = 0.701, seed = 987285
+[FAIL] Attempt 130: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 131 ---
+[INFO] HR fraction = 0.721, seed = 367068
+[FAIL] Attempt 131: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 132 ---
+[INFO] HR fraction = 0.704, seed = 426371
+[FAIL] Attempt 132: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 133 ---
+[INFO] HR fraction = 0.670, seed = 243038
+[FAIL] Attempt 133: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 134 ---
+[INFO] HR fraction = 0.711, seed = 340342
+[FAIL] Attempt 134: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 135 ---
+[INFO] HR fraction = 0.725, seed = 610089
+[FAIL] Attempt 135: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 136 ---
+[INFO] HR fraction = 0.695, seed = 295237
+[FAIL] Attempt 136: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 137 ---
+[INFO] HR fraction = 0.729, seed = 933446
+[FAIL] Attempt 137: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 138 ---
+[INFO] HR fraction = 0.716, seed = 844675
+[FAIL] Attempt 138: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 139 ---
+[INFO] HR fraction = 0.679, seed = 387946
+[FAIL] Attempt 139: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 140 ---
+[INFO] HR fraction = 0.695, seed = 783306
+[FAIL] Attempt 140: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 141 ---
+[INFO] HR fraction = 0.689, seed = 843223
+[FAIL] Attempt 141: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 142 ---
+[INFO] HR fraction = 0.709, seed = 889905
+[FAIL] Attempt 142: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 143 ---
+[INFO] HR fraction = 0.666, seed = 428645
+[FAIL] Attempt 143: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 144 ---
+[INFO] HR fraction = 0.703, seed = 84968
+[FAIL] Attempt 144: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 145 ---
+[INFO] HR fraction = 0.701, seed = 835278
+[FAIL] Attempt 145: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 146 ---
+[INFO] HR fraction = 0.713, seed = 659379
+[FAIL] Attempt 146: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 147 ---
+[INFO] HR fraction = 0.714, seed = 14276
+[FAIL] Attempt 147: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 148 ---
+[INFO] HR fraction = 0.715, seed = 935959
+[FAIL] Attempt 148: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 149 ---
+[INFO] HR fraction = 0.714, seed = 645311
+[FAIL] Attempt 149: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 150 ---
+[INFO] HR fraction = 0.710, seed = 442420
+[FAIL] Attempt 150: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 151 ---
+[INFO] HR fraction = 0.686, seed = 898799
+[FAIL] Attempt 151: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 152 ---
+[INFO] HR fraction = 0.699, seed = 789584
+[FAIL] Attempt 152: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 153 ---
+[INFO] HR fraction = 0.681, seed = 77358
+[FAIL] Attempt 153: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 154 ---
+[INFO] HR fraction = 0.695, seed = 893168
+[FAIL] Attempt 154: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 155 ---
+[INFO] HR fraction = 0.680, seed = 924829
+[FAIL] Attempt 155: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 156 ---
+[INFO] HR fraction = 0.720, seed = 739401
+[FAIL] Attempt 156: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 157 ---
+[INFO] HR fraction = 0.724, seed = 646165
+[FAIL] Attempt 157: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 158 ---
+[INFO] HR fraction = 0.705, seed = 323529
+[FAIL] Attempt 158: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 159 ---
+[INFO] HR fraction = 0.679, seed = 948444
+[FAIL] Attempt 159: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 160 ---
+[INFO] HR fraction = 0.709, seed = 199136
+[FAIL] Attempt 160: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 161 ---
+[INFO] HR fraction = 0.698, seed = 838370
+[FAIL] Attempt 161: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 162 ---
+[INFO] HR fraction = 0.715, seed = 135417
+[FAIL] Attempt 162: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 163 ---
+[INFO] HR fraction = 0.719, seed = 803388
+[FAIL] Attempt 163: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 164 ---
+[INFO] HR fraction = 0.709, seed = 560792
+[FAIL] Attempt 164: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 165 ---
+[INFO] HR fraction = 0.714, seed = 340173
+[FAIL] Attempt 165: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 166 ---
+[INFO] HR fraction = 0.691, seed = 275275
+[FAIL] Attempt 166: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 167 ---
+[INFO] HR fraction = 0.700, seed = 162548
+[FAIL] Attempt 167: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 168 ---
+[INFO] HR fraction = 0.716, seed = 255544
+[FAIL] Attempt 168: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 169 ---
+[INFO] HR fraction = 0.700, seed = 554133
+[FAIL] Attempt 169: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 170 ---
+[INFO] HR fraction = 0.709, seed = 653979
+[FAIL] Attempt 170: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 171 ---
+[INFO] HR fraction = 0.681, seed = 852406
+[FAIL] Attempt 171: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 172 ---
+[INFO] HR fraction = 0.670, seed = 853732
+[FAIL] Attempt 172: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 173 ---
+[INFO] HR fraction = 0.699, seed = 218520
+[FAIL] Attempt 173: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 174 ---
+[INFO] HR fraction = 0.674, seed = 207945
+[FAIL] Attempt 174: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 175 ---
+[INFO] HR fraction = 0.740, seed = 663011
+[FAIL] Attempt 175: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 176 ---
+[INFO] HR fraction = 0.720, seed = 453078
+[FAIL] Attempt 176: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 177 ---
+[INFO] HR fraction = 0.713, seed = 968432
+[FAIL] Attempt 177: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 178 ---
+[INFO] HR fraction = 0.695, seed = 567821
+[FAIL] Attempt 178: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 179 ---
+[INFO] HR fraction = 0.721, seed = 371020
+[FAIL] Attempt 179: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 180 ---
+[INFO] HR fraction = 0.685, seed = 440404
+[FAIL] Attempt 180: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 181 ---
+[INFO] HR fraction = 0.716, seed = 435974
+[FAIL] Attempt 181: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 182 ---
+[INFO] HR fraction = 0.716, seed = 756312
+[FAIL] Attempt 182: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 183 ---
+[INFO] HR fraction = 0.682, seed = 610873
+[FAIL] Attempt 183: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 184 ---
+[INFO] HR fraction = 0.706, seed = 277503
+[FAIL] Attempt 184: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 185 ---
+[INFO] HR fraction = 0.700, seed = 787493
+[FAIL] Attempt 185: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 186 ---
+[INFO] HR fraction = 0.719, seed = 349967
+[FAIL] Attempt 186: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 187 ---
+[INFO] HR fraction = 0.706, seed = 122790
+[FAIL] Attempt 187: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 188 ---
+[INFO] HR fraction = 0.699, seed = 641691
+[FAIL] Attempt 188: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 189 ---
+[INFO] HR fraction = 0.694, seed = 355094
+[FAIL] Attempt 189: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 190 ---
+[INFO] HR fraction = 0.728, seed = 763295
+[FAIL] Attempt 190: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 191 ---
+[INFO] HR fraction = 0.705, seed = 222521
+[FAIL] Attempt 191: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 192 ---
+[INFO] HR fraction = 0.701, seed = 731440
+[FAIL] Attempt 192: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 193 ---
+[INFO] HR fraction = 0.698, seed = 641601
+[FAIL] Attempt 193: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 194 ---
+[INFO] HR fraction = 0.699, seed = 355217
+[FAIL] Attempt 194: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 195 ---
+[INFO] HR fraction = 0.690, seed = 424492
+[FAIL] Attempt 195: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 196 ---
+[INFO] HR fraction = 0.672, seed = 212370
+[FAIL] Attempt 196: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 197 ---
+[INFO] HR fraction = 0.708, seed = 183664
+[FAIL] Attempt 197: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 198 ---
+[INFO] HR fraction = 0.674, seed = 838117
+[FAIL] Attempt 198: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 199 ---
+[INFO] HR fraction = 0.710, seed = 572136
+[FAIL] Attempt 199: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 200 ---
+[INFO] HR fraction = 0.684, seed = 835404
+[FAIL] Attempt 200: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 201 ---
+[INFO] HR fraction = 0.690, seed = 257451
+[FAIL] Attempt 201: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 202 ---
+[INFO] HR fraction = 0.696, seed = 759237
+[FAIL] Attempt 202: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 203 ---
+[INFO] HR fraction = 0.694, seed = 829707
+[FAIL] Attempt 203: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 204 ---
+[INFO] HR fraction = 0.699, seed = 582646
+[FAIL] Attempt 204: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 205 ---
+[INFO] HR fraction = 0.724, seed = 60879
+[FAIL] Attempt 205: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 206 ---
+[INFO] HR fraction = 0.724, seed = 960955
+[FAIL] Attempt 206: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 207 ---
+[INFO] HR fraction = 0.709, seed = 399325
+[FAIL] Attempt 207: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 208 ---
+[INFO] HR fraction = 0.695, seed = 190599
+[FAIL] Attempt 208: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 209 ---
+[INFO] HR fraction = 0.709, seed = 81300
+[FAIL] Attempt 209: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 210 ---
+[INFO] HR fraction = 0.708, seed = 56728
+[FAIL] Attempt 210: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 211 ---
+[INFO] HR fraction = 0.695, seed = 790319
+[FAIL] Attempt 211: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 212 ---
+[INFO] HR fraction = 0.703, seed = 175766
+[FAIL] Attempt 212: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 213 ---
+[INFO] HR fraction = 0.718, seed = 993129
+[SUCCESS] Simulation completed
+[APD90] Mean=232.48, HR_mean=234.24, NR_mean=228.02
+[INFO] Saved AP traces: ap_traces_attempt213.pdf
+[INFO] Saved corona ring heatmap: ap_circular_heatmap_attempt213.png
