@@ -1,0 +1,240 @@
+Error processing line 1 of /home/pgrad1/2712549y/.local/lib/python3.10/site-packages/distutils-precedence.pth:
+
+  Traceback (most recent call last):
+    File "/usr/lib/python3.10/site.py", line 192, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+  AttributeError: module '_distutils_hack' has no attribute 'add_shim'
+
+Remainder of file ignored
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+
+--- Attempt 1 ---
+[INFO] HR fraction = 0.287, seed = 318229
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 1: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 2 ---
+[INFO] HR fraction = 0.287, seed = 495655
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 2: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 3 ---
+[INFO] HR fraction = 0.290, seed = 850348
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 3: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 4 ---
+[INFO] HR fraction = 0.292, seed = 400664
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 4: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 5 ---
+[INFO] HR fraction = 0.287, seed = 424531
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 5: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 6 ---
+[INFO] HR fraction = 0.281, seed = 265047
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 6: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 7 ---
+[INFO] HR fraction = 0.290, seed = 799258
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 7: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 8 ---
+[INFO] HR fraction = 0.287, seed = 653542
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 8: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 9 ---
+[INFO] HR fraction = 0.296, seed = 921811
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 9: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 10 ---
+[INFO] HR fraction = 0.296, seed = 361619
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 10: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 11 ---
+[INFO] HR fraction = 0.281, seed = 876130
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 11: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 12 ---
+[INFO] HR fraction = 0.291, seed = 68102
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 12: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 13 ---
+[INFO] HR fraction = 0.297, seed = 573739
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 13: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 14 ---
+[INFO] HR fraction = 0.287, seed = 6707
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 14: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 15 ---
+[INFO] HR fraction = 0.281, seed = 429531
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 15: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 16 ---
+[INFO] HR fraction = 0.281, seed = 182988
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 16: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 17 ---
+[INFO] HR fraction = 0.291, seed = 919262
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 17: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 18 ---
+[INFO] HR fraction = 0.282, seed = 696664
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 18: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 19 ---
+[INFO] HR fraction = 0.299, seed = 619624
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 19: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 20 ---
+[INFO] HR fraction = 0.294, seed = 784645
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 20: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 21 ---
+[INFO] HR fraction = 0.296, seed = 740377
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 21: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 22 ---
+[INFO] HR fraction = 0.287, seed = 171494
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:123: RuntimeWarning: overflow encountered in exp
+  sigmoid1 = 1 / (1 + np.exp(-(i - i1) * sharpness))   # rising
+/home/pgrad1/2712549y/.local/lib/python3.6/site-packages/myokit/1D_networks_of_arbitrarily_connected_cells/updated_1D/ring/NR_HR/2025_11_06/CASE1/updated_DOS_g_3.0_run2/shuffle_nopre.py:124: RuntimeWarning: overflow encountered in exp
+  sigmoid2 = 1 / (1 + np.exp((i - i2) * sharpness))    # falling
+[FAIL] Attempt 22: Numerical error found in simulation logs.
+Unable to pinpoint source of NaN, an error occurred:
+Method requires a simulation log containing all states and bound variables. Missing variable <0.INa_h_gate.h>.
+
+--- Attempt 23 ---
+[INFO] HR fraction = 0.291, seed = 462864
+[SUCCESS] Simulation completed
+[APD90] Mean=201.24, HR_mean=293.64, NR_mean=163.27
+[INFO] Saved AP traces: ap_traces_attempt23.pdf
+[INFO] Saved corona ring heatmap: ap_circular_heatmap_attempt23.png
