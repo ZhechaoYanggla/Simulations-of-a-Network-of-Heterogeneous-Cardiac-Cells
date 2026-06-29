@@ -1,0 +1,9 @@
+Attempt: 90
+Seed: 269133
+HR fraction: 0.306
+Mean APD90: 218.44
+Mean HR APD90: 345.46
+Mean NR APD90: 162.37
+Sharpness: 12.5000
+Width: 266
+Amplitude: 0.89
